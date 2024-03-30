@@ -1,0 +1,47 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+
+.nv{
+    font-weight: bolder;
+    color: aliceblue;
+    font-size: 3em;
+}
+
+.main{
+background-image: url(./images/orange\ background.png);
+height: 100vh;
+width: 100%;
+}
+
+.main > .navbar{
+    background-image: url(./images/logo.png);
+}
+
+.content{
+    background-color: rgb(211, 104, 55);
+    width: 25%;
+    color: aliceblue;
+    text-align: justify;
+}
+
+.btn1{
+    padding: 1% 4%;
+    border-radius: 30px;
+    color: rgb(8, 8, 8);
+}
+.btn1:hover{
+    background-color: gray;
+}
+.front-image{
+    background-image: url(./images/item_one.png);
+}
+.pera{
+    text-align: center;
+}
+
+.front-heading{
+ text-align: center;
+}
